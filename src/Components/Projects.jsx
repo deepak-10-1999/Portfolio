@@ -132,44 +132,6 @@ export default function Projects() {
           </div>
 
 
-          {/* <div className="w-[340px] md:w-[300px] m-auto md:m-4 border border-white  bg-gray-300 hover:text-white hover:bg-sky-950 rounded duration-1000">
-            <div className="overflow-hidden h-[200px] p-1 rounded">
-              <img
-                className="hover:scale-105 h-[190px] duration-500 "
-                src={pro1}
-                alt=""
-              />
-            </div>
-            <div className="flex items-center justify-between p-2">
-              <h1 className="font-bold md:text-[14px] text-[17px]">
-                Weather Forecast App
-              </h1>
-
-              <div className="flex gap-3 text-[22px]">
-                <div className="p-2 rounded w-8">
-                  <a
-                    href="https://github.com/AbhishekDubey1997/Weather_App"
-                    target="blank"
-                  >
-                    {" "}
-                    <FaGithub />
-                  </a>
-                </div>
-
-                <div className="p-2 rounded w-8">
-                  {" "}
-                  <a
-                    href="https://tailwind-react-projets.onrender.com"
-                    target="blank"
-                  >
-                    {" "}
-                    <SiRender />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div> */}
-
           <div className="w-[340px] md:w-[300px] m-auto md:m-4 border border-white  bg-gray-300 hover:text-white hover:bg-sky-950 rounded duration-1000">
             <div className="overflow-hidden h-[200px] p-1 rounded  ">
               <img
